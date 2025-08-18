@@ -1,0 +1,34 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 700px;
+     margin: auto;
+     padding-left: 20px;
+     padding-right: 20px;
+}
+@font-face {
+    font-family: "nokia";
+    src: url(nokiafc22.ttf);
+}
+h2 {
+    font-family: "nokia";
+}
+h4 {
+    font-family: "nokia";
+    margin: auto;
+}
+footer {
+    font-size: small;
+    color: blue;
+}
+
+.rssHeading {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+}
+
+.updates {
+    max-height: 200px;
+    overflow-y: scroll;
+}
