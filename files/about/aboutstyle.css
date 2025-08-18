@@ -7,7 +7,7 @@ body { font-family: "JetBrains"; color: antiquewhite; font-size: small; backgrou
 }
 @font-face {
     font-family: "JetBrains";
-    src: url(JetBrainsMono-Regular.ttf);
+    src: url(../JetBrainsMono-Regular.ttf);
 }
 @font-face {
     font-family: 'x12y16pxLineLinker.tff';
