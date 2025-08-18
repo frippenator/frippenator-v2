@@ -1,0 +1,1 @@
+String date = new java.text.SimpleDateFormat("09/28/2006 01:08:00").format(new java.util.Date (epoch*1000));

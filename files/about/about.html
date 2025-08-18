@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link 
+        rel="stylesheet" 
+        href="aboutstyle.css"
+    />
+     <link 
+        rel="icon"
+        href="/home/fripp/Web/Site/frippenator2.ico"
+    />
+    <title>
+        Frippenator | About
+    </title>  
+</head>
+<body>
+    <script>
+        var myAudio = document.getElementById("dukevoice");
+        function togglePlay()
+        {return dukevoice.paused ?
+        dukevoice.play() :
+        dukevoice.pause();};
+    </script>
+     <audio id="dukevoice" src="https://file.garden/aJJNLka3yQqsHRr5/Websites/2%20neocities-frippenator-v2/MEAT.WAV"
+     type="audio/mpeg"></audio>
+    <h2><a href="/home/fripp/Web/Site/index.html">/home</a></font>/about</h2>
+
+    <p>My name is Fripp <font color="gray">(contrary to popular belief, this is not a nickname, nor is it short for anything. I'm not exactly sure what it would be short for, anyway)</font>. 
+    I'm <span id="age"></span> and a high school dropout turned college student <font color="gray">(Studio Arts specifically)</font> who's crawling out of his 
+    NEET cocoon. I found that being inside all day actually drove me insane. Below is a real picture of me:</p>
+    <button onclick="togglePlay()"><img src ="https://file.garden/aJJNLka3yQqsHRr5/Websites/2%20neocities-frippenator-v2/Tenda" alt="A sprite of a Tenda, a species from the game MOTHER 2. It is a muted teal. Its eyes are little black dots, and its mouth is a straight black line. When clicked, a Duke Nukem voice line plays.">
+    </button>
+
+    <p>Click on the real picture of me for my real voice.</p>
+    <p>I need to practice writing about myself. I've discovered that any course that 
+    I take which requires writing will almost always ask of you to write about 
+    yourself and your opinions. I also get nervous about saying "I" too much; sometimes that thing about Hemmingway's editors needing to replace the ink for
+    the letter "I" because he talked about himself so much comes to mind.</p>
+
+    <p>I don't really have any strong opitions on things that do not fall into Maslow's
+    Hierarchy of Needs. As in, I think equity and basic human rights is good... apparently this
+    is much more polarizing than I anticipated.</p>
+    <p>I am, however, passionate about the things I like, even if I sometimes shy away from talking about them.</p>
+    <p>One thing I really, really, <i>really</i> like is Captain Falcon <font color="gray">(and <i>F-Zero</i> by proxy.)</font>. He is awesome and I want him in the foulest of ways. I also
+    enjoy <i>Judge Dredd, The Tick, Metal Gear Solid, Animal Crossing,</i> and <i>The Hitchhiker's Guide to the Galaxy.</i>
+    </p>
+    <p>Regarding music, I used to say I "liked everyting," however I soon learned to not lie. I am a remarkably picky
+    motherfucker. My current favorite artists are Foetus, Primus, Space Streakings, and Darth Vegas. I'm also quite fond of my cats: Jaguar, Xena, and Misha. Jaguar is almost 13 now, while Xena and Misha are both
+    around two years old as of writing this.</p>
+
+    <p>I dabble in whatever interests me, whether it be fiddling with legacy technology, learning a new art medium,
+        or pinning bugs. Because I'm apparently a masochist, I'm pursing a visual arts career. There's a 
+    PBS show I like called <i>Canvasing the World</i>, in which the host travels to various destinations and ends with a painting
+inspired by what he saw. He said something along the lines of wanting to make art no matter what. He went backpacing in Europe with only
+a handful of euros and paid his way in paintings, and that's what inspired the show. That really struck me, so, idealistically, I want to do something like that. Without the TV show
+involved.</p>
+<p>When I'm not being productive, I stare at the ceiling and wonder why poop is brown. I know <i>why</i> poop is brown but it still weirds me out...</p>
+        
+    <script> const dob =new Date("09/28/2006");
+        const month_diff =Date.now() - dob.getTime();
+        let age_dt = new Date(month_diff);
+        let year=age_dt.getUTCFullYear();
+        let age = Math.abs(year-1970); 
+        document.getElementById('age').innerHTML = age;
+    </script>
+</body>
