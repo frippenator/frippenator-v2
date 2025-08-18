@@ -1,9 +1,13 @@
 
-body { font-family: 'Courier New'; color: antiquewhite; font-size: small; background-color: black;
+body { font-family: "JetBrains"; color: antiquewhite; font-size: small; background-color: black;
      max-width: 700px;
      margin: auto;
      padding-left: 20px;
      padding-right: 20px;
+}
+@font-face {
+    font-family: "JetBrains";
+    src: url(JetBrainsMono-Regular.ttf);
 }
 @font-face {
     font-family: 'x12y16pxLineLinker.tff';
