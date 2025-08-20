@@ -6,14 +6,22 @@
 <ttl>10</ttl>
 <description></description>
 <copyright></copyright>
-<lastBuildDate>Mon, 18 Aug 2025 14:20:07 -0500</lastBuildDate>
+<lastBuildDate>Wed, 20 Aug 2025 17:57:57 -0500</lastBuildDate>
 <generator>Super Simple RSS</generator>
 <webMaster>fripp@disroot.org</webMaster>
+<item>
+<title>Blog section is up!</title>
+<link>blog/blog.html</link>
+<description>
+Now to figure out how to add tags and make it not clunky... If anyone knows how to make static blogging pages a bit more convenient, do share. I might just bite the bullet and just post stuff on an external site, but where&apos;s the fun in that?
+</description>
+<pubDate>Wed, 20 August 2025 17:55:21 -0500</pubDate>
+</item>
 <item>
 <title>Things look different around here...</title>
 <link></link>
 <description>
-Wow! It&apos;s so empty and generic! I decided to give my site a huge overhaul after a year of not updating it. It was far too daunting when it was all fancy-like... It&apos;ll start having more character eventually, but I needed a blank slate. Mind the mess.
+Wow! It's so empty and generic! I decided to give my site a huge overhaul after a year of not updating it. It was far too daunting when it was all fancy-like... It&apos;ll start having more character eventually, but I needed a blank slate. Mind the mess.
 </description>
 <pubDate>Mon, 18 August 2025 14:17:18 -0500</pubDate>
 </item>
@@ -27,4 +35,3 @@ Finally added an RSS feed to this site, rather than an ever-expanding wall of te
 </item>
 </channel>
 </rss>
-
