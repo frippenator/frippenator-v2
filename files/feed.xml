@@ -6,12 +6,20 @@
 <ttl>10</ttl>
 <description></description>
 <copyright></copyright>
-<lastBuildDate>Wed, 20 Aug 2025 17:57:57 -0500</lastBuildDate>
+<lastBuildDate>Thu, 21 Aug 2025 17:30:08 -0500</lastBuildDate>
 <generator>Super Simple RSS</generator>
 <webMaster>fripp@disroot.org</webMaster>
 <item>
+<title>New blog entry + rearranged some things</title>
+<link>blog/2025_08_21.html</link>
+<description>
+I remembered that I can just make seperate HTML files for each entry rather than make one gigantic blog file. I think I&apos;ll just stick to that. Expect a guestbook or some sort of comment widget soon, and perhaps an archive of my first layout whenever I figure out how I want to showcase it.
+</description>
+<pubDate>Thu, 21 August 2025 17:26:15 -0500</pubDate>
+</item>
+<item>
 <title>Blog section is up!</title>
-<link>blog/blog.html</link>
+<link>blog.html</link>
 <description>
 Now to figure out how to add tags and make it not clunky... If anyone knows how to make static blogging pages a bit more convenient, do share. I might just bite the bullet and just post stuff on an external site, but where&apos;s the fun in that?
 </description>
@@ -21,7 +29,7 @@ Now to figure out how to add tags and make it not clunky... If anyone knows how 
 <title>Things look different around here...</title>
 <link></link>
 <description>
-Wow! It's so empty and generic! I decided to give my site a huge overhaul after a year of not updating it. It was far too daunting when it was all fancy-like... It&apos;ll start having more character eventually, but I needed a blank slate. Mind the mess.
+Wow! It&apos;s so empty and generic! I decided to give my site a huge overhaul after a year of not updating it. It was far too daunting when it was all fancy-like... It&apos;ll start having more character eventually, but I needed a blank slate. Mind the mess.
 </description>
 <pubDate>Mon, 18 August 2025 14:17:18 -0500</pubDate>
 </item>

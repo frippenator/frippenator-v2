@@ -7,11 +7,11 @@ body {
 }
 @font-face {
     font-family: "nokia";
-    src: url(nokiafc22.ttf);
+    src: url(fonts/nokiafc22.ttf);
 }
 @font-face {
     font-family: "JetBrains";
-    src: url(JetBrainsMono-Regular.ttf);
+    src: url(fonts/JetBrainsMono-Regular.ttf);
 }
 h2 {
     font-family: "nokia";
