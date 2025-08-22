@@ -97,8 +97,6 @@
 #c_widgetTitle {
     margin: 0;
     padding: 0;
-    font-style: italic;
-    text-decoration: underline;
 }
 
 .c-inputWrapper {
@@ -108,12 +106,10 @@
 }
 .c-input {
     padding: 4px;
-    color: #5E2C49;
-    border-radius: 4px;
-    border: 1px solid #CE98FB;
+    color: black;
 	outline: none;
 }
-.c-input:focus {border: 1px solid #FB96D8;}
+.c-input:focus {border: 1px solid blue;}
 
 .c-textInput {
     width: calc(100% - 10px);
