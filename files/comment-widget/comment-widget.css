@@ -58,11 +58,9 @@
     height: 100%;
     padding: 15px;
     overflow: auto;
-    background-image: url('bow-bg.gif'); /* F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
     background-attachment: fixed;
-    font-family: 'Trebuchet MS';
     font-size: 14px;
-    color: #211F24;
+    color: black
 }
 
 #c_widget button, #c_widget input[type=submit] {
@@ -71,20 +69,20 @@
 	text-transform: lowercase;
 	text-align: center;
     background-color: white;
-    color: #CE98FB;
-    border: 1px solid #CE98FB;
+    color: black;
+    border: 1px solid black;
     border-radius: 5px;
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
-    background-color: #FB96D8;
-    color: white;
-    border: 1px solid #FB96D8;
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
 }
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
     background-color: white;
-    color: #CE98FB;
-    border: 1px solid #CE98FB;
+    color: gray;
+    border: 1px solid gray;
 }
 
 /* Input section */
@@ -92,8 +90,7 @@
     padding: 10px;
     text-transform: lowercase;
     background-color: rgba(255, 255, 255, .8);
-    border: 1px dashed #CE98FB;
-    border-radius: 5px;
+
 }
 #c_container {margin-top: 10px;}
 
