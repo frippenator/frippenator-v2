@@ -53,13 +53,11 @@
 */
 
 /* Main */
+
 #c_widget {
     box-sizing: border-box;
     height: 100%;
-    padding: 15px;
     overflow: auto;
-    background-attachment: fixed;
-    font-size: 14px;
     color: black
 }
 
@@ -71,7 +69,6 @@
     background-color: white;
     color: black;
     border: 1px solid black;
-    border-radius: 5px;
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
     background-color: white;
@@ -89,7 +86,6 @@
 #c_inputDiv {
     padding: 10px;
     text-transform: lowercase;
-    background-color: rgba(255, 255, 255, .8);
 
 }
 #c_container {margin-top: 10px;}
@@ -97,6 +93,7 @@
 #c_widgetTitle {
     margin: 0;
     padding: 0;
+    font-size: 16px;
 }
 
 .c-inputWrapper {
@@ -113,7 +110,6 @@
 
 .c-textInput {
     width: calc(100% - 10px);
-    max-width: 900px;
     resize: none;
 }
 #c_submitButton {display: block;}
