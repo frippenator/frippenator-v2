@@ -6,9 +6,17 @@
 <ttl>10</ttl>
 <description></description>
 <copyright></copyright>
-<lastBuildDate>Thu, 21 Aug 2025 17:30:08 -0500</lastBuildDate>
+<lastBuildDate>Fri, 22 Aug 2025 17:20:57 -0500</lastBuildDate>
 <generator>Super Simple RSS</generator>
 <webMaster>fripp@disroot.org</webMaster>
+<item>
+<title>Comment widget now live!</title>
+<link></link>
+<description>
+Jesus fuck, that took forever. My IDE randomly stopped syncing correctly and I had to push it to GitHub several times before hard resetting Codium for the widget to work. Actual hell on earth. &quot;Share and enjoy,&quot; � la the Sirius Cybernetics Corporation.
+</description>
+<pubDate>Fri, 22 August 2025 17:17:27 -0500</pubDate>
+</item>
 <item>
 <title>New blog entry + rearranged some things</title>
 <link>blog/2025_08_21.html</link>
