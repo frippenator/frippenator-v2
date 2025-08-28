@@ -6,9 +6,17 @@
 <ttl>10</ttl>
 <description></description>
 <copyright></copyright>
-<lastBuildDate>Fri, 22 Aug 2025 17:20:57 -0500</lastBuildDate>
+<lastBuildDate>Thu, 28 Aug 2025 09:17:13 -0500</lastBuildDate>
 <generator>Super Simple RSS</generator>
 <webMaster>fripp@disroot.org</webMaster>
+<item>
+<title>New blog entry + some additional changes</title>
+<link>blog/2025_08_28.html</link>
+<description>
+Updates will be a bit more spread out now that class is back in session. I added a &quot;now&quot; section to the index as well; a little blurb to disclose what I&apos;m watching, reading, and playing at the moment. Beneath that, I added a &quot;new post&quot; preview. I&apos;ve heard that this is a lot more streamline to do with something like 11ty, but I&apos;m doing it with raw HTML for now. Also adjusted the width of the comments box and where the link to the index page is on the navbar since that was bugging me... happy almost September!
+</description>
+<pubDate>Thu, 28 August 2025 09:05:21 -0500</pubDate>
+</item>
 <item>
 <title>Comment widget now live!</title>
 <link></link>
@@ -21,7 +29,7 @@ Jesus fuck, that took forever. My IDE randomly stopped syncing correctly and I h
 <title>New blog entry + rearranged some things</title>
 <link>blog/2025_08_21.html</link>
 <description>
-I remembered that I can just make seperate HTML files for each entry rather than make one gigantic blog file. I think I&apos;ll just stick to that. Expect a guestbook or some sort of comment widget soon, and perhaps an archive of my first layout whenever I figure out how I want to showcase it.
+I remembered that I can just make separate HTML files for each entry rather than make one gigantic blog file. I think I&apos;ll just stick to that. Expect a guestbook or some sort of comment widget soon, and perhaps an archive of my first layout whenever I figure out how I want to showcase it.
 </description>
 <pubDate>Thu, 21 August 2025 17:26:15 -0500</pubDate>
 </item>
