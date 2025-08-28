@@ -13,7 +13,7 @@
 <title>New blog entry + some additional changes</title>
 <link>blog/2025_08_28.html</link>
 <description>
-Updates will be a bit more spread out now that class is back in session. I added a &quot;now&quot; section to the index as well; a little blurb to disclose what I&apos;m watching, reading, and playing at the moment. Beneath that, I added a &quot;new post&quot; preview. I&apos;ve heard that this is a lot more streamline to do with something like 11ty, but I&apos;m doing it with raw HTML for now. Also adjusted the width of the comments box and where the link to the index page is on the navbar since that was bugging me... happy almost September!
+Updates will be a bit more spread out now that class is back in session. I added a &quot;now&quot; section to the index as well; a little blurb to disclose what I&apos;m watching, reading, and playing at the moment. Beneath that, I added a &quot;new post&quot; preview. I&apos;ve heard that this is a lot more streamline to do with something like 11ty, but I'm doing it with raw HTML for now. Also adjusted the width of the comments box and where the link to the index page is on the navbar since that was bugging me... happy almost September!
 </description>
 <pubDate>Thu, 28 August 2025 09:05:21 -0500</pubDate>
 </item>
