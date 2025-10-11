@@ -1,69 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-    <channel>
-        <title>Frippenator Updates</title>
-        <link>https://frippenator.neocities.org</link>
-        <ttl>10</ttl>
-        <description></description>
-        <copyright></copyright>
-        <lastBuildDate>Sun, 07 Sep 2025 12:40:41 -0500</lastBuildDate>
-        <generator>Super Simple RSS</generator>
-        <webMaster>fripp@disroot.org</webMaster>
-        <item>
-            <title>New blog entry + updated the &quot;now&quot; section</title>
-            <link>blog/2025_09_07.html</link>
-            <description>
-I just remembered that I technically made this site in 2022 (when my Neocities account was created)... Though, I started actually doing stuff with this site in 2024, so I don&apos;t know what date is more appropriate to have in my footer. Anyway, new stuff. 
-            </description>
-            <pubDate>Sun, 7 September 2025 12:37:55 -0500</pubDate>
-        </item>
-        <item>
-            <title>New blog entry + some additional changes</title>
-            <link>blog/2025_08_28.html</link>
-            <description>
-Updates will be a bit more spread out now that class is back in session. I added a &quot;now&quot; section to the index as well; a little blurb to disclose what I&apos;m watching, reading, and playing at the moment. Beneath that, I added a &quot;new post&quot; preview. I&apos;ve heard that this is a lot more streamline to do with something like 11ty, but I&apos;m doing it with raw HTML for now. Also adjusted the width of the comments box and where the link to the index page is on the navbar since that was bugging me... happy almost September!
-            </description>
-            <pubDate>Thu, 28 August 2025 09:05:21 -0500</pubDate>
-        </item>
-        <item>
-            <title>Comment widget now live!</title>
-            <link></link>
-            <description>
-Jesus fuck, that took forever. My IDE randomly stopped syncing correctly and I had to push it to GitHub several times before hard resetting Codium for the widget to work. Actual hell on earth. &quot;Share and enjoy,&quot; à la the Sirius Cybernetics Corporation.
-            </description>
-            <pubDate>Fri, 22 August 2025 17:17:27 -0500</pubDate>
-        </item>
-        <item>
-            <title>New blog entry + rearranged some things</title>
-            <link>blog/2025_08_21.html</link>
-            <description>
-I remembered that I can just make separate HTML files for each entry rather than make one gigantic blog file. I think I&apos;ll just stick to that. Expect a guestbook or some sort of comment widget soon, and perhaps an archive of my first layout whenever I figure out how I want to showcase it.
-            </description>
-            <pubDate>Thu, 21 August 2025 17:26:15 -0500</pubDate>
-        </item>
-        <item>
-            <title>Blog section is up!</title>
-            <link>blog.html</link>
-            <description>
-Now to figure out how to add tags and make it not clunky... If anyone knows how to make static blogging pages a bit more convenient, do share. I might just bite the bullet and just post stuff on an external site, but where&apos;s the fun in that?
-            </description>
-            <pubDate>Wed, 20 August 2025 17:55:21 -0500</pubDate>
-        </item>
-        <item>
-            <title>Things look different around here...</title>
-            <link></link>
-            <description>
-Wow! It&apos;s so empty and generic! I decided to give my site a huge overhaul after a year of not updating it. It was far too daunting when it was all fancy-like... It&apos;ll start having more character eventually, but I needed a blank slate. Mind the mess.
-            </description>
-            <pubDate>Mon, 18 August 2025 14:17:18 -0500</pubDate>
-        </item>
-        <item>
-            <title>RSS feed now up</title>
-            <link></link>
-            <description>
-Finally added an RSS feed to this site, rather than an ever-expanding wall of text for updates. Was rather clunky. This is a test... cheers to making websites and whatnot.
-            </description>
-            <pubDate>Thu, 7 August 2025 08:45:25</pubDate>
-        </item>
-    </channel>
+<channel>
+<title>Frippenator Updates</title>
+<link>https://frippenator.neocities.org</link>
+<ttl>10</ttl>
+<description></description>
+<copyright></copyright>
+<lastBuildDate>Sat, 11 Oct 2025 13:36:14 -0500</lastBuildDate>
+<generator>Super Simple RSS</generator>
+<webMaster>fripp@disroot.org</webMaster>
+<item>
+<title>Long time, no see! New blog entry + video section on index page</title>
+<link>blog/2025_10_11.html</link>
+<description>
+Technical issues and school stuff prevented me from updating sooner... oops. Hopefully we're back in full swing now. Also, I did some minor tweaks on the "About" page.
+</description>
+<pubDate>Sat, 11 October 2025 13:34:24 -0500</pubDate>
+</item>
+<item>
+<title>New blog entry + updated the &quot;now&quot; section</title>
+<link>blog/2025_09_07.html</link>
+<description>
+I just remembered that I technically made this site in 2022 (when my Neocities account was created)... Though, I started actually doing stuff with this site in 2024, so I don&apos;t know what date is more appropriate to have in my footer. Anyway, new stuff.             
+</description>
+<pubDate>Sun, 7 September 2025 12:37:55 -0500</pubDate>
+</item>
+<item>
+<title>New blog entry + some additional changes</title>
+<link>blog/2025_08_28.html</link>
+<description>
+Updates will be a bit more spread out now that class is back in session. I added a &quot;now&quot; section to the index as well; a little blurb to disclose what I&apos;m watching, reading, and playing at the moment. Beneath that, I added a &quot;new post&quot; preview. I&apos;ve heard that this is a lot more streamline to do with something like 11ty, but I&apos;m doing it with raw HTML for now. Also adjusted the width of the comments box and where the link to the index page is on the navbar since that was bugging me... happy almost September!            
+</description>
+<pubDate>Thu, 28 August 2025 09:05:21 -0500</pubDate>
+</item>
+<item>
+<title>Comment widget now live!</title>
+<link></link>
+<description>
+Jesus fuck, that took forever. My IDE randomly stopped syncing correctly and I had to push it to GitHub several times before hard resetting Codium for the widget to work. Actual hell on earth. &quot;Share and enjoy,&quot; à la the Sirius Cybernetics Corporation.            
+</description>
+<pubDate>Fri, 22 August 2025 17:17:27 -0500</pubDate>
+</item>
+<item>
+<title>New blog entry + rearranged some things</title>
+<link>blog/2025_08_21.html</link>
+<description>
+I remembered that I can just make separate HTML files for each entry rather than make one gigantic blog file. I think I&apos;ll just stick to that. Expect a guestbook or some sort of comment widget soon, and perhaps an archive of my first layout whenever I figure out how I want to showcase it.            
+</description>
+<pubDate>Thu, 21 August 2025 17:26:15 -0500</pubDate>
+</item>
+<item>
+<title>Blog section is up!</title>
+<link>blog.html</link>
+<description>
+Now to figure out how to add tags and make it not clunky... If anyone knows how to make static blogging pages a bit more convenient, do share. I might just bite the bullet and just post stuff on an external site, but where&apos;s the fun in that?            
+</description>
+<pubDate>Wed, 20 August 2025 17:55:21 -0500</pubDate>
+</item>
+<item>
+<title>Things look different around here...</title>
+<link></link>
+<description>
+Wow! It&apos;s so empty and generic! I decided to give my site a huge overhaul after a year of not updating it. It was far too daunting when it was all fancy-like... It&apos;ll start having more character eventually, but I needed a blank slate. Mind the mess.            
+</description>
+<pubDate>Mon, 18 August 2025 14:17:18 -0500</pubDate>
+</item>
+<item>
+<title>RSS feed now up</title>
+<link></link>
+<description>
+Finally added an RSS feed to this site, rather than an ever-expanding wall of text for updates. Was rather clunky. This is a test... cheers to making websites and whatnot.            
+</description>
+<pubDate>Thu, 7 August 2025 08:45:25</pubDate>
+</item>
+</channel>
 </rss>
