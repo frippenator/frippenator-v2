@@ -41,3 +41,6 @@ footer {
   max-height: 200px;
   overflow-y: scroll;
 }
+mark {
+  background-color: lightgreen;
+}

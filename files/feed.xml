@@ -6,14 +6,22 @@
 <ttl>10</ttl>
 <description></description>
 <copyright></copyright>
-<lastBuildDate>Sat, 11 Oct 2025 13:36:14 -0500</lastBuildDate>
+<lastBuildDate>Tue, 14 Oct 2025 10:39:27 -0500</lastBuildDate>
 <generator>Super Simple RSS</generator>
 <webMaster>fripp@disroot.org</webMaster>
+<item>
+<title>Reading log up!</title>
+<link>reading_log.html</link>
+<description>
+Yay... The art page is soon to follow. :P I also nested the Commonplace page inside of it.
+</description>
+<pubDate>Tue, 14 October 2025 10:38:09 -0500</pubDate>
+</item>
 <item>
 <title>Long time, no see! New blog entry + video section on index page</title>
 <link>blog/2025_10_11.html</link>
 <description>
-Technical issues and school stuff prevented me from updating sooner... oops. Hopefully we're back in full swing now. Also, I did some minor tweaks on the "About" page.
+Technical issues and school stuff prevented me from updating sooner... oops. Hopefully we&apos;re back in full swing now. Also, I did some minor tweaks on the &quot;About&quot; page.
 </description>
 <pubDate>Sat, 11 October 2025 13:34:24 -0500</pubDate>
 </item>
