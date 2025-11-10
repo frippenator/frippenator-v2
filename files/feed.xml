@@ -6,9 +6,17 @@
 <ttl>10</ttl>
 <description></description>
 <copyright></copyright>
-<lastBuildDate>Tue, 28 Oct 2025 12:29:59 -0500</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 20:08:39 -0600</lastBuildDate>
 <generator>Super Simple RSS</generator>
 <webMaster>fripp@disroot.org</webMaster>
+<item>
+<title>Fiddled around in the reading log section... again</title>
+<link>reading_log.html</link>
+<description>
+I think I&apos;m coming down with a cold or something. :^(
+</description>
+<pubDate>Sun, 9 November.3s 2025 20:06:35 -0600</pubDate>
+</item>
 <item>
 <title>New reading log entry!</title>
 <link>reading_log.html</link>
