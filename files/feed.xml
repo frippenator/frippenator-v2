@@ -6,9 +6,17 @@
 <ttl>10</ttl>
 <description></description>
 <copyright></copyright>
-<lastBuildDate>Sun, 09 Nov 2025 20:08:39 -0600</lastBuildDate>
+<lastBuildDate>Mon, 17 Nov 2025 20:24:36 -0600</lastBuildDate>
 <generator>Super Simple RSS</generator>
 <webMaster>fripp@disroot.org</webMaster>
+<item>
+<title>New blog post, a silly one this time</title>
+<link>blog/heuristic_fagorithmic.html</link>
+<description>
+This is so dumb I had to write about it. More dumb posts about computers and sexuality to follow... rubs hands together...
+</description>
+<pubDate>Mon, 17 November 2025 20:22:08 -0600</pubDate>
+</item>
 <item>
 <title>Fiddled around in the reading log section... again</title>
 <link>reading_log.html</link>
